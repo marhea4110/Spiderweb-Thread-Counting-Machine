@@ -36,9 +36,4 @@ spider-web-certifier/
 - NumPy
 - Pillow
 
-## How to Run
 
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
