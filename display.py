@@ -44,6 +44,7 @@ def display_result(image, thread_count, density_score, level):
         "SPIDER COBWEB CERTIFIER",
         display_image
     )
+    #.
 
     print("\n==============================")
     print("   SPIDER COBWEB CERTIFIER")
