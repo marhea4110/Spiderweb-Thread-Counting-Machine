@@ -28,9 +28,9 @@ def detect_web_threads(image_path):
         edges,
         rho=1,
         theta=3.14159 / 180,
-        threshold=30,
-        minLineLength=20,
-        maxLineGap=10
+        threshold=80,
+        minLineLength=50,
+        maxLineGap=5
     )
 
     thread_count = 0
