@@ -38,8 +38,7 @@ def detect_web_threads(image_path):
 
     if lines is not None:
 
-        for line in lines:
-            x1, y1, x2, y2 = line[0]
+        for x1, y1, x2, y2 in lines.reshape(-1, 4):
 
             # Calculate length of detected line
             length = ((x2 - x1) ** 2 + (y2 - y1) ** 2) ** 0.5
