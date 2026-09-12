@@ -268,6 +268,10 @@ Higher-resolution industrial cameras
 Improved counting accuracy for overlapping threads
 Touchscreen interface
 Wireless monitoring using ESP32
+
+Project Demo Video
+https://drive.google.com/file/d/153XdJf-42FblE0LYYsBCY8a1SfLN7Pon/view?usp=sharing
+
 📊 Expected Output
 
 The system should provide an output similar to:
