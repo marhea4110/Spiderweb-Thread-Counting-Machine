@@ -192,68 +192,6 @@ Morphological operations
 Contour detection
 Hough Line Transform
 
-For example:
-
-edges = cv2.Canny(gray, 50, 150)
-4. Counting
-
-After detecting the threads, the algorithm analyzes the resulting image and determines the number of individual threads.
-
-The counting method can be selected according to the physical arrangement of the threads.
-
-For example:
-
-Input Image
-     ↓
-Grayscale
-     ↓
-Noise Removal
-     ↓
-Threshold / Edge Detection
-     ↓
-Thread Segmentation
-     ↓
-Thread Identification
-     ↓
-Count
-     ↓
-Display Result
-5. Result Display
-
-The final count can be displayed on:
-
-Computer screen
-Web interface
-LCD/OLED display
-Serial Monitor
-📁 Suggested Project Structure
-spider-web-thread-counting-machine/
-│
-├── README.md
-├── requirements.txt
-│
-├── src/
-│   ├── main.py
-│   ├── image_processing.py
-│   ├── thread_detection.py
-│   └── counter.py
-│
-├── hardware/
-│   ├── circuit_diagram/
-│   ├── pcb/
-│   └── arduino/
-│       └── controller.ino
-│
-├── images/
-│   ├── input/
-│   └── output/
-│
-├── documentation/
-│   ├── system_design.md
-│   ├── algorithm.md
-│   └── testing.md
-│
-└── requirements.txt
 📥 Installation
 1. Clone the Repository
 git clone https://github.com/USERNAME/spider-web-thread-counting-machine.git
