@@ -192,50 +192,6 @@ Morphological operations
 Contour detection
 Hough Line Transform
 
-📥 Installation
-1. Clone the Repository
-git clone https://github.com/USERNAME/spider-web-thread-counting-machine.git
-
-Move into the project directory:
-
-cd spider-web-thread-counting-machine
-2. Create a Virtual Environment
-Windows
-python -m venv venv
-venv\Scripts\activate
-Linux / macOS
-python3 -m venv venv
-source venv/bin/activate
-3. Install Required Libraries
-pip install -r requirements.txt
-
-If requirements.txt is not available, install the basic dependencies:
-
-pip install opencv-python numpy pillow matplotlib
-
-For a Flask-based interface:
-
-pip install flask
-▶️ Running the Project
-Run the Main Program
-python src/main.py
-
-The program will:
-
-Initialize the camera.
-Capture the thread/web image.
-Process the image.
-Detect the threads.
-Count the detected threads.
-Display the final result.
-Run a Flask Web Interface
-
-If the project includes a Flask interface:
-
-python app.py
-
-Then open the local server in a browser.
-
 📚 Project Documentation
 1. System Architecture
 
