@@ -275,6 +275,20 @@ Improved counting accuracy for overlapping threads
 Touchscreen interface
 Wireless monitoring using ESP32
 
+Screenshots
+
+1.Original spiderweb image provided as input to the program.
+
+<img width="922" height="576" alt="Screenshot 2026-09-12 064315" src="https://github.com/user-attachments/assets/47f584fa-65c4-4ec9-81d4-266e71fbc934" />
+
+2.OpenCV highlights the detected thread/line segments on the spicerweb.
+
+<img width="834" height="651" alt="Screenshot 2026-09-12 064634" src="https://github.com/user-attachments/assets/1ccc384f-bd66-4de4-819b-cf07b6d3dea8" />
+
+3.The program displays the calculated number of detected threads.
+
+<img width="456" height="353" alt="Screenshot 2026-09-12 064656" src="https://github.com/user-attachments/assets/80a68f4f-83d1-4f2b-9112-094d938f9ccd" />
+
 Project Demo Video
 https://drive.google.com/file/d/153XdJf-42FblE0LYYsBCY8a1SfLN7Pon/view?usp=sharing
 
