@@ -220,6 +220,7 @@ Thread Detection
 Counting Algorithm
        ↓
 Result
+
 2. Image Processing
 
 The image-processing pipeline consists of:
