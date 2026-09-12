@@ -168,6 +168,7 @@ Software Workflow
 The camera captures an image of the spider-web-like structure.
 
 Camera → Image
+
 2. Image Preprocessing
 
 The captured image is converted into a format suitable for analysis.
@@ -183,6 +184,7 @@ Thresholding
 Example:
 
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+
 3. Thread Detection
 
 Computer-vision techniques are used to identify the visible threads.
