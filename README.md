@@ -236,7 +236,6 @@ python app.py
 
 Then open the local server in a browser.
 
-http://127.0.0.1:5000
 📚 Project Documentation
 1. System Architecture
 
