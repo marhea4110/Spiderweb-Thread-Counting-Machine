@@ -46,8 +46,11 @@ Team Name
 TITANS
 
 Team Members
+
 Mariya Sunil
+
 Vaishnavi Ajith
+
 📖 Project Description
 
 The Spider Web Thread Counting Machine is an automated system designed to detect and count the number of fine threads in a spider-web-like structure accurately and efficiently.
